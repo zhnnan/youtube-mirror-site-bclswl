@@ -7,6 +7,8 @@
 
 > AIzaSyBy2VkQXTgCWkfWfgejVUcKH5GuO2DFAds
 
+You2PHP原版中有一个名为4k.php的脚本。实质上，4k.php是一个在线代理脚本。理论上来说，Heroku是不允许部署在线代理脚本的，所以将其移除。
+
 ## 备注
 
 Youtube API是有每日固定配额的，如果您发现你的网站出现突然无法获取视频等情况，请等待至美国太平洋时间午夜12点后再试
