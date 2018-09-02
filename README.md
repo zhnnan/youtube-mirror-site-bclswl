@@ -7,7 +7,7 @@
 
 > AIzaSyBy2VkQXTgCWkfWfgejVUcKH5GuO2DFAds
 
-You2PHP原版中有一个名为4k.php的脚本。实质上，4k.php是一个在线代理脚本。理论上来说，Heroku是不允许部署在线代理脚本的，所以将其移除。
+You2PHP原版中有一个名为4k.php的脚本，实质上，4k.php是一个在线代理脚本。本人并不提倡滥用Heroku的免费服务，故将其移除。
 
 ## 备注
 
