@@ -5,4 +5,8 @@
 
 提供现成的YouTube API：
 
-> AIzaSyARHJJDFtwb5wcnURwwJA3FQRrM16PF27c
+> AIzaSyBy2VkQXTgCWkfWfgejVUcKH5GuO2DFAds
+
+## 注意
+
+Youtube API是有每日固定配额的，如果您发现你的网站出现突然无法获取视频等情况，请等待至美国太平洋时间午夜12点后再试
