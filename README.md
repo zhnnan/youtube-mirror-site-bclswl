@@ -2,7 +2,8 @@
 ## You2PHP
 
 **用于Ｈｅｒｏｋｕ以部署ＹｏｕＴｕｂｅ镜像站**
-**This project is just to deploy YouTube Mirror on HEROKU.**
+
+**This project is to deploy YouTube Mirror on HEROKU.**
 
 提供现成的YouTube API（2018年9月2日再次更新API，请注意）：
 
