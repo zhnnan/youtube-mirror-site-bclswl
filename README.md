@@ -3,6 +3,8 @@
 
 **用于Ｈｅｒｏｋｕ以部署ＹｏｕＴｕｂｅ镜像站**
 
+**如果此前不能正常部署，现在请重新 Fork 本项目。**
+
 **This project is to deploy YouTube Mirror on HEROKU.**
 
 提供现成的两个 YouTube API（2018年9月9日再次更新API，请注意）：
